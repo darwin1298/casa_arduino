@@ -5,7 +5,7 @@
     <link
       rel="apple-touch-icon"
       sizes="76x76"
-      href="./dashboard/img/logo-icon.png"
+      href="./dashboard/img/favicon.pngg"
     />
     <link rel="icon" type="image/png" href="./dashboard/img/logo-icon.png" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
@@ -170,6 +170,7 @@
             </div>
           </div>
         </div>
+        
         <div class="section text-center" id="implementos">
           <h2 class="title text-uppercase">Aqui puedes encontrar!</h2>
           <div class="team">
@@ -179,9 +180,9 @@
                   <div class="card card-plain">
                     <div class="col-md-6 ml-auto mr-auto">
                       <img
-                        src="./assets/img/arduino.jpg"
-                        alt="Thumbnail Image"
-                        class="img-raised img-fluid rounded-circle"
+                      src="./assets/img/arduino.jpg"
+                      alt="Thumbnail Image"
+                      class="img-raised img-fluid rounded-circle"
                       />
                     </div>
                     <h4 class="card-title">Arduino</h4>
@@ -201,14 +202,14 @@
                   <div class="card card-plain">
                     <div class="col-md-6 ml-auto mr-auto">
                       <img
-                        src="./assets/img/arduino-nano.jpg"
+                      src="./assets/img/arduino-nano.jpg"
                         alt="Thumbnail Image"
                         class="img-raised img-fluid rounded-circle"
-                      />
-                    </div>
-                    <h4 class="card-title">Arduino nano</h4>
-                    <div class="card-body">
-                      <p class="card-description">
+                        />
+                      </div>
+                      <h4 class="card-title">Arduino nano</h4>
+                      <div class="card-body">
+                        <p class="card-description">
                         es una pequeña y completa placa basada en el ATmega328
                         (Arduino Nano 3.0) o el ATmega168 en sus versiones
                         anteriores (Arduino Nano 2. x) que se usa conectándola a
@@ -223,9 +224,9 @@
                   <div class="card card-plain">
                     <div class="col-md-6 ml-auto mr-auto">
                       <img
-                        src="./assets/img/fotocelda.jpg"
-                        alt="Thumbnail Image"
-                        class="img-raised img-fluid rounded-circle"
+                      src="./assets/img/fotocelda.jpg"
+                      alt="Thumbnail Image"
+                      class="img-raised img-fluid rounded-circle"
                       />
                     </div>
                     <h4 class="card-title">Fotocelda</h4>
@@ -244,9 +245,9 @@
                   <div class="card card-plain">
                     <div class="col-md-6 ml-auto mr-auto">
                       <img
-                        src="./assets/img/protoboard.jpg"
-                        alt="Thumbnail Image"
-                        class="img-raised img-fluid rounded-circle"
+                      src="./assets/img/protoboard.jpg"
+                      alt="Thumbnail Image"
+                      class="img-raised img-fluid rounded-circle"
                       />
                     </div>
                     <h4 class="card-title">Protoboard</h4>
@@ -266,9 +267,9 @@
                   <div class="card card-plain">
                     <div class="col-md-6 ml-auto mr-auto">
                       <img
-                        src="./assets/img/impresora.jpg"
-                        alt="Thumbnail Image"
-                        class="img-raised img-fluid rounded-circle"
+                      src="./assets/img/impresora.jpg"
+                      alt="Thumbnail Image"
+                      class="img-raised img-fluid rounded-circle"
                       />
                     </div>
                     <h4 class="card-title">Impresora 3d</h4>
@@ -287,9 +288,9 @@
                   <div class="card card-plain">
                     <div class="col-md-6 ml-auto mr-auto">
                       <img
-                        src="./assets/img/dron.jpg"
-                        alt="Thumbnail Image"
-                        class="img-raised img-fluid rounded-circle"
+                      src="./assets/img/dron.jpg"
+                      alt="Thumbnail Image"
+                      class="img-raised img-fluid rounded-circle"
                       />
                     </div>
                     <h4 class="card-title">Dron</h4>
@@ -306,6 +307,12 @@
             </div>
           </div>
         </div>
+        
+
+<br>
+
+</div>
+
         <div class="section section-contacts" id="contactenos">
           <div class="row">
             <div class="col-md-8 ml-auto mr-auto">
