@@ -28,7 +28,7 @@
                         } ?>"><a href="usuarios.php"><i class='glyphicon glyphicon-user'></i> Usuarios</a></li>
 	        </ul>
 	        <ul class="nav navbar-nav navbar-right">
-	          <li><a href="login.php?logout"><i class='glyphicon glyphicon-off'></i> Salir</a></li>
+	          <li><a href="../index.php"><i class='glyphicon glyphicon-off'></i> Salir</a></li>
 	        </ul>
 	      </div><!-- /.navbar-collapse -->
 	    </div><!-- /.container-fluid -->
