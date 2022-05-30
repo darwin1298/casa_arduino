@@ -30,8 +30,8 @@
 	        <ul class="nav navbar-nav navbar-right">
 	          <li><a href="../index.php"><i class='glyphicon glyphicon-off'></i> Salir</a></li>
 	        </ul>
-	      </div><!-- /.navbar-collapse -->
-	    </div><!-- /.container-fluid -->
+	      </div>
+	    </div>
 	  </nav>
 	<?php
   }
